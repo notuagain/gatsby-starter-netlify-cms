@@ -1,8 +1,8 @@
 ---
 templateKey: about-page
 path: /about
-title: About Gravity Adufio
+title: About Gravity Audio
 ---
-### Prodution tips and insights
+### Production tips and insights
 
 We know our audio.
