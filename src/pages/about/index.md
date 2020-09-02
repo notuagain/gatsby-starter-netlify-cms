@@ -5,4 +5,4 @@ title: About Gravity Adufio
 ---
 ### Prodution tips and insights
 
-We know audio.
+We know our audio.
