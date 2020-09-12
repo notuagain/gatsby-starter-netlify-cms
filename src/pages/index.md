@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Gravity Audio
 image: /img/home-jumbotron.jpg
-heading: Gravity Audio
+heading: Gravity-Audio.com
 subheading: Your resource for music production
 mainpitch:
   title: What is Gravity Audio?
